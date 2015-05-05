@@ -1,0 +1,5 @@
+centre vcentre
+
+% The question
+
+% "Are open source developers mostly from the U.S.?"

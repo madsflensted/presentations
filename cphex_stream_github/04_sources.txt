@@ -1,0 +1,17 @@
+centre
+
+% In the library
+
+* IO.stream
+* File.stream
+* and many more
+
+% Roll your own streams
+
+* Stream.cycle: Enumerable -> Stream
+* Stream.repeatedly: (fn -> a) -> Stream
+* Stream.iterate: (a, fn a -> a) -> Stream
+* Stream.unfold: (state, fn state -> {value, state}) -> Stream
+* Stream.resource: (start_fn, next_fn, after_fn) -> Stream
+
+

@@ -1,0 +1,16 @@
+centre
+
+* /users/madsflensted
+
+      { ...,
+        "location": "Copenhagen",
+        ... 
+      }
+
+* /users
+
+      [{...}, 
+       {...} 
+      ]
+
+      pagination: 100 users per page

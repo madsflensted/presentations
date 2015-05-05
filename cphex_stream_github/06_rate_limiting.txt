@@ -1,0 +1,8 @@
+centre
+
+% Github rate limiting
+
+  * 60 requests/hour unauthorized
+  * 5000 requests/hour authorized
+
+  * at 9.000.000+ users => ~ 75 days

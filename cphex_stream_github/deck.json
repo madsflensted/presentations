@@ -1,0 +1,12 @@
+{
+  "header": {
+    "centre": "Streaming Github with Elixir"
+  },
+  "footer": {
+    "left": "Mads Flensted-Urech",
+    "right": "@madsflensted"
+  },
+  "fade": {
+    "delay": 15
+  }
+}
