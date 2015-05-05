@@ -1,0 +1,12 @@
+{
+  "header": {
+    "centre": "Elixir Protocols"
+  },
+  "footer": {
+    "left": "Mads Flensted-Urech",
+    "right": "\u2295 madsflensted"
+  },
+  "fade": {
+    "delay": 15
+  }
+}
