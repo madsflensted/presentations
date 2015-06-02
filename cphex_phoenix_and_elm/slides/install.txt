@@ -1,0 +1,18 @@
+centre
+
+~Prequisites
+
+  * Erlang 17.x
+  * Haskell Platform 7.8.x (7.6.x ok?)
+
+~Install
+
+  * Elixir 1.0.x
+    http://elixir-lang.org/install.html
+  * Elm 0.15.x
+    http://elm-lang.org/Install.elm
+
+~Bootstrap
+
+  * Phoenix Framework ~mix phoenix.new~ task
+    http://www.phoenixframework.org/v0.13.1/docs/up-and-running

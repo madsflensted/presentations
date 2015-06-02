@@ -1,0 +1,14 @@
+centre
+
+
+
+
+
+% Agenda
+
+  * Demo
+  * The Phoenix project
+  * Reading Elm code
+  * Adding stuff
+  * Take it for a spin
+

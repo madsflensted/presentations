@@ -1,0 +1,12 @@
+{
+  "header": {
+    "centre": "Phoenix Framework and Elm"
+  },
+  "footer": {
+    "left": "Mads Flensted-Urech",
+    "right": "@madsflensted"
+  },
+  "fade": {
+    "delay": 15
+  }
+}
