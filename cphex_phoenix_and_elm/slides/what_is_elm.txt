@@ -1,0 +1,20 @@
+centre
+
+
+
+~Elm
+  * Functional Reactive Programming (FRP)
+  * Elm language => (compiles to)
+     Javascript
+     HTML
+     CSS
+  * Type checking at compile time
+  * Everything is an expression
+  * Clear separation between
+    - Pure (Functional)
+    and 
+    - Time varying (Reactive)
+
+
+  
+  

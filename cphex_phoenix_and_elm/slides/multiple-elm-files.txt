@@ -1,0 +1,8 @@
+centre
+
+* Edit elm-package.json
+  "source-directories" : [
+    "web/static/elm"
+    ]
+
+* add handling of elm-divs to app.js

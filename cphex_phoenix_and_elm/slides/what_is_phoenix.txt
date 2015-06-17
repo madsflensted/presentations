@@ -1,0 +1,21 @@
+centre
+
+
+
+~Phoenix Framework:
+  * Router
+  * Plug (Middleware)
+  * Controller/View/Templates
+  * Channels (Websockets)
+  * PubSub
+  * Macros
+  
+  Built on:
+  * Elixir
+  * Cowboy, lightweight, modular HTTP server (erlang)
+
+~Bootstrap
+
+  $ mix phoenix.new dots
+
+  # Anwser 'yes' if building HTML app

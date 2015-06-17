@@ -1,0 +1,9 @@
+centre
+
+add route in route.ex
+
+add controler
+
+add view
+
+add template

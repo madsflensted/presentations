@@ -12,7 +12,5 @@ centre
   * Elm 0.15.x
     http://elm-lang.org/Install.elm
 
-~Bootstrap
-
-  * Phoenix Framework ~mix phoenix.new~ task
-    http://www.phoenixframework.org/v0.13.1/docs/up-and-running
+~Phoenix Mix Task
+  * http://www.phoenixframework.org/v0.13.1/docs/up-and-running

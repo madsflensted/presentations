@@ -4,11 +4,12 @@ centre
 
 
 
-% Agenda
+% Building Dots
 
-  * Demo
-  * The Phoenix project
-  * Reading Elm code
-  * Adding stuff
-  * Take it for a spin
+  * Setting up
+  * Add Elm to the mix
+  * Dots, the structure
+  * What's this Elm stuff?
+  * Board and Pads in Elm
+  * Tying the knot with Channels
 

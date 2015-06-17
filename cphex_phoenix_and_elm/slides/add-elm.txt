@@ -1,0 +1,21 @@
+centre
+
+
+Edit package.json, add elm-brunch dependency
+    "dependencies": {
+       ..
+       "elm-brunch": "0.x",
+    }
+
+npm install
+
+mix phoenix.server
+
+mkdir web/static/elm
+
+add web/static/elm/Main.elm
+
+source main.js in application.html.eex
+
+add load code in app.js
+
