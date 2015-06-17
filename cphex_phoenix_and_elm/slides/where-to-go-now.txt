@@ -1,0 +1,14 @@
+centre
+
+
+
+~Where to go next?
+  * http://elm-lang.org
+    Just updated, guides and examples
+  * http://elm-by-example.org/index.html
+    Slightly older version of Elm
+  * StartApp
+    https://github.com/evancz/start-app
+
+  * http://www.phoenixframework.org/v0.13.1/docs
+    Guides to everything Phoenix

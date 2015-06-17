@@ -8,12 +8,14 @@ centre
      Javascript
      HTML
      CSS
-  * Type checking at compile time
-  * Everything is an expression
+  * Catch errors at compile time
+  * Immutable data structures
   * Clear separation between
     - Pure (Functional)
     and 
     - Time varying (Reactive)
+  * Focussed (on Web UI)
+  * And lot's more at http://elm-lang.org
 
 
   
